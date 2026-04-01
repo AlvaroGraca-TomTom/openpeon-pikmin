@@ -24,6 +24,14 @@
         { "file": "sounds/pikmin-tiktok-sound.mp3", "label": "Pikmin TikTok sound" }
       ]
     },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/pikmin-hyah.mp3", "label": "Pikmin hyah!" },
+        { "file": "sounds/pikmin-throw.mp3", "label": "Pikmin throw" },
+        { "file": "sounds/pikmin-haa.mp3", "label": "Pikmin haa?" },
+        { "file": "sounds/pikmin-wah.mp3", "label": "Pikmin wah!" }
+      ]
+    },
     "task.complete": {
       "sounds": [
         { "file": "sounds/pikmin-carry.mp3", "label": "Pikmin carrying treasure" },
@@ -47,6 +55,14 @@
         { "file": "sounds/pikmin-drowning.mp3", "label": "Pikmin drowning" },
         { "file": "sounds/pikmin-deadfall.mp3", "label": "Pikmin deadfall" },
         { "file": "sounds/pikmin-falling.mp3", "label": "Pikmin falling" },
+        { "file": "sounds/pikmin-sigh.mp3", "label": "Pikmin sigh" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/pikmin-clock.mp3", "label": "Pikmin clock" },
+        { "file": "sounds/pikmin-boss-reveal.mp3", "label": "Pikmin boss reveal" },
+        { "file": "sounds/pikmin-alert.mp3", "label": "Pikmin alert call" },
         { "file": "sounds/pikmin-sigh.mp3", "label": "Pikmin sigh" }
       ]
     },
