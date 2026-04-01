@@ -10,37 +10,57 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
+  "icon": "icons/pack.png",
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/greeting-pikmin.mp3", "label": "Pikmin!" },
-        { "file": "sounds/greeting-pluck.mp3", "label": "Plucking a Pikmin" },
-        { "file": "sounds/greeting-yahoo.mp3", "label": "Pikmin yahoo!" },
-        { "file": "sounds/greeting-louie.mp3", "label": "Louie~" }
+        { "file": "sounds/pikmin.mp3", "label": "Pikmin!" },
+        { "file": "sounds/pikmin-2.mp3", "label": "PIKMIN" },
+        { "file": "sounds/pikmin-plucking.mp3", "label": "Plucking a Pikmin" },
+        { "file": "sounds/pikmin-yahoo.mp3", "label": "Pikmin yahoo!" },
+        { "file": "sounds/pikmin-louie.mp3", "label": "Louie~" },
+        { "file": "sounds/olimar.mp3", "label": "Olimar" },
+        { "file": "sounds/pikmin-lookie.mp3", "label": "Pikmin lookie" },
+        { "file": "sounds/pikmin-tiktok-sound.mp3", "label": "Pikmin TikTok sound" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/complete-carry.mp3", "label": "Pikmin carrying treasure" },
-        { "file": "sounds/complete-phew.mp3", "label": "Pikmin phew!" },
-        { "file": "sounds/complete-nectar.mp3", "label": "Pikmin nectar gulp" }
+        { "file": "sounds/pikmin-carry.mp3", "label": "Pikmin carrying treasure" },
+        { "file": "sounds/pikmin-phew.mp3", "label": "Pikmin phew!" },
+        { "file": "sounds/pikmin-nectar.mp3", "label": "Pikmin nectar gulp" },
+        { "file": "sounds/pikmin-throw.mp3", "label": "Pikmin throw" },
+        { "file": "sounds/rock-pikmin-throw.mp3", "label": "Rock Pikmin throw" },
+        { "file": "sounds/pikmin-hyah.mp3", "label": "Pikmin hyah!" },
+        { "file": "sounds/pikmin-pellet-posy.mp3", "label": "Pikmin Pellet Posy" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/error-dies.mp3", "label": "Pikmin death" },
-        { "file": "sounds/error-cry.mp3", "label": "Pikmin help cry" },
-        { "file": "sounds/error-angry.mp3", "label": "Pikmin angry" },
-        { "file": "sounds/error-burning.mp3", "label": "Pikmin burning" },
-        { "file": "sounds/error-electrocuted.mp3", "label": "Pikmin electrocuted" }
+        { "file": "sounds/pikmin-dies.mp3", "label": "Pikmin death" },
+        { "file": "sounds/pikmin-is-ded.mp3", "label": "Pikmin is ded" },
+        { "file": "sounds/pikmin-help-cry.mp3", "label": "Pikmin help cry" },
+        { "file": "sounds/pikmin-angry.mp3", "label": "Pikmin angry" },
+        { "file": "sounds/pikmin-burning.mp3", "label": "Pikmin burning" },
+        { "file": "sounds/pikmin-atatata.mp3", "label": "Pikmin atatata" },
+        { "file": "sounds/pikmin-electrocuted.mp3", "label": "Pikmin electrocuted" },
+        { "file": "sounds/pikmin-drowning.mp3", "label": "Pikmin drowning" },
+        { "file": "sounds/pikmin-deadfall.mp3", "label": "Pikmin deadfall" },
+        { "file": "sounds/pikmin-falling.mp3", "label": "Pikmin falling" },
+        { "file": "sounds/pikmin-sigh.mp3", "label": "Pikmin sigh" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/attention-whistle.mp3", "label": "Olimar's whistle" },
-        { "file": "sounds/attention-alert.mp3", "label": "Pikmin alert call" },
-        { "file": "sounds/attention-haa.mp3", "label": "Pikmin haa?" },
-        { "file": "sounds/attention-wah.mp3", "label": "Pikmin wah!" }
+        { "file": "sounds/pikmin-olimar-whistle.mp3", "label": "Olimar's whistle" },
+        { "file": "sounds/pikmin-louie-whistle.mp3", "label": "Louie's whistle" },
+        { "file": "sounds/pikmin-alert.mp3", "label": "Pikmin alert call" },
+        { "file": "sounds/pikmin-haa.mp3", "label": "Pikmin haa?" },
+        { "file": "sounds/pikmin-wah.mp3", "label": "Pikmin wah!" },
+        { "file": "sounds/pikmin-moo.mp3", "label": "Pikmin moo" },
+        { "file": "sounds/pikmin-wet.mp3", "label": "Pikmin wet" },
+        { "file": "sounds/pikmin-clock.mp3", "label": "Pikmin clock" },
+        { "file": "sounds/pikmin-boss-reveal.mp3", "label": "Pikmin boss reveal" }
       ]
     }
   }
