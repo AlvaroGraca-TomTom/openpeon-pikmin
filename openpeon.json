@@ -1,0 +1,47 @@
+{
+  "cesp_version": "1.0",
+  "name": "pikmin",
+  "display_name": "Pikmin",
+  "version": "1.0.0",
+  "description": "Adorable Pikmin sound effects from the Nintendo classic. Pluck, carry, whistle, and occasionally perish.",
+  "author": {
+    "name": "Alvaro Graca",
+    "github": "AlvaroGraca-TomTom"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/greeting-pikmin.mp3", "label": "Pikmin!" },
+        { "file": "sounds/greeting-pluck.mp3", "label": "Plucking a Pikmin" },
+        { "file": "sounds/greeting-yahoo.mp3", "label": "Pikmin yahoo!" },
+        { "file": "sounds/greeting-louie.mp3", "label": "Louie~" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/complete-carry.mp3", "label": "Pikmin carrying treasure" },
+        { "file": "sounds/complete-phew.mp3", "label": "Pikmin phew!" },
+        { "file": "sounds/complete-nectar.mp3", "label": "Pikmin nectar gulp" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/error-dies.mp3", "label": "Pikmin death" },
+        { "file": "sounds/error-cry.mp3", "label": "Pikmin help cry" },
+        { "file": "sounds/error-angry.mp3", "label": "Pikmin angry" },
+        { "file": "sounds/error-burning.mp3", "label": "Pikmin burning" },
+        { "file": "sounds/error-electrocuted.mp3", "label": "Pikmin electrocuted" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/attention-whistle.mp3", "label": "Olimar's whistle" },
+        { "file": "sounds/attention-alert.mp3", "label": "Pikmin alert call" },
+        { "file": "sounds/attention-haa.mp3", "label": "Pikmin haa?" },
+        { "file": "sounds/attention-wah.mp3", "label": "Pikmin wah!" }
+      ]
+    }
+  }
+}
